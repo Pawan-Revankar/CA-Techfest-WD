@@ -1,4 +1,4 @@
-# Room Allocation System
+# Hostel Room Allocation System
 
 ## Overview
 This project is a web application that digitalizes the hospitality process for group accommodation. It allows users to upload two CSV files to efficiently allocate rooms in hostels while ensuring group members with the same ID stay together and adhere to hostel capacities and gender-specific accommodations.
@@ -40,7 +40,7 @@ This project is a web application that digitalizes the hospitality process for g
     ```
 
 ## Usage
-1. Open the web application in your browser (typically at `http://localhost:3000`).
+1. Open the web application in your browser.
 2. Upload the Group Information CSV file and the Hostel Information CSV file.
 3. Click on "Allocate Rooms" to process the files and display the allocation results.
 4. Download the results as a CSV file if needed.
