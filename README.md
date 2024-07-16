@@ -54,4 +54,4 @@ This project is a web application that digitalizes the hospitality process for g
   102,4,Girls
   103,2,Boys
   104,5,Girls
-  105,8,5 Boys & 3 Girls
+  105,8,Boys-5,Girls-3
